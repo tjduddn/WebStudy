@@ -1,0 +1,85 @@
+.whole {    
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 670px;
+    height: 960px;
+    top: 60px;
+    left: 625px;
+    border-radius: 20px;
+    border: 1px solid #AACDFF;
+    align-items: center;
+}
+h1 {
+    font-family: Noto Sans CJK KR;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#0068FF;
+}
+.user {
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 470px;
+    height: 818px;
+}
+#box{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 2px solid #CFCFCF;
+    width: 466px;
+    height: 80px;
+    top: 286px;
+    left: 725px;
+}
+
+
+.check input{
+    width: 20px;
+    height: 19.95px;
+    top: 721px;
+    left: 975px;
+    border: 1px;
+
+}
+.select{
+    width: 470px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    display:flex;
+    flex-direction: top;
+    justify-content: center;
+    text-align: left;
+    border-bottom: 2px solid #E6E6E6;
+}
+
+.select input {
+    width: 20px;
+    height: 20px;
+    top: 792.94px;
+    left: 737px;
+    border-radius: 3px;
+    border: 1px;
+
+}
+#button{
+    width: 470px;
+    height: 75px;
+    top: 875px;
+    left: 725px;
+    border-radius: 10px;
+    border: 1px solid #0068FF;
+    color:#0068FF;
+    background-color: #FFFFFF;
+}
+.whole2{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
